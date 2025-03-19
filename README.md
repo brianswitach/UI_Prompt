@@ -9,7 +9,7 @@ This repository provides a ready-to-use prompt designed for **Claude 3.7 Sonnet*
    - Download this prompt directly from this repository.
 
 2. **Customization:**
-   - Open the `prompt.txt` file.
+   - Copy the prompt down below.
    - Modify the prompt text to suit your design requirements (e.g., adjusting colors, layout, and design details).
 
 3. **Execution:**
